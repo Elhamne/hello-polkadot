@@ -1,0 +1,1 @@
+## Node appearance Telemetry list
